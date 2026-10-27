@@ -1,0 +1,8 @@
+.local/
+/整理工作执行清单.md
+/workspace/
+*.local.md
+.env
+.env.*
+.DS_Store
+Thumbs.db
